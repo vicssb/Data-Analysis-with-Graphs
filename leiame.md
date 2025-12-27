@@ -25,8 +25,9 @@ O treinamento Neo4j - Análise de Dados com Grafos visa capacitar profissionais 
 - Modelagem de Dados e Importação de Dados
 - Consulta e Análise Avançadas
 - Algoritmos de Grafos e Análises
-- Projetos Práticos e Desafios
 - Melhores Práticas e Implantação
+- Projetos Práticos e Desafios
+  - [Modelagem de Dados em Grafos para um Serviço de Streaming](https://github.com/vicssb/Data-Modeling-in-Graphs-of-a-Streaming-Service.git)
 
 
 

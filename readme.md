@@ -25,8 +25,10 @@ The Neo4j - Data Analysis with Graphs training aims to train professionals in th
 - Data Modeling and Importing Data
 - Advanced Querying and Analysis
 - Graph Algorithms and Analytics
-- Practical Projects and Challenges
 - Best Practices and Deployment
+- Practical Projects and Challenges
+  - [Data Modeling in Graphs for a Streaming Service](https://github.com/vicssb/Data-Modeling-in-Graphs-of-a-Streaming-Service.git)
+
 
 
 
