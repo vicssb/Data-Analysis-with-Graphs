@@ -29,7 +29,7 @@ The Neo4j - Data Analysis with Graphs training aims to train professionals in th
 - Practical Projects and Challenges
   - [Data Modeling in Graphs for a Streaming Service](https://github.com/vicssb/Data-Modeling-in-Graphs-of-a-Streaming-Service.git)
   - [Graph-Based Music Recommendation Algorithm](https://github.com/vicssb/Graph-Based-Music-Recommendation-Algorithm.git)
-
+  - [Analyzing Social Media Data Based on Graph Queries](https://github.com/vicssb/Analyzing-Social-Media-Data-Based-on-Graph-Queries.git)
 
 
 ## Prerequisites
